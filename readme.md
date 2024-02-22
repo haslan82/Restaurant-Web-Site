@@ -1,7 +1,7 @@
 # Restaurant Web Site
 
-Responsive Restaurant Web Sitesi projesi hazırlandı.
-Değişiklik yaptım
+Bu projede responsive Restaurant Web Sitesi hazırlandı.
+
 
 # Kullanılan Diller
 
@@ -15,7 +15,7 @@ Değişiklik yaptım
 
 # Video
 
-![](images/2.mp3)
+![](images/2.mp4)
 
 # GIF
 
