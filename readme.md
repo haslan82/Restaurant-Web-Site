@@ -11,12 +11,12 @@ Değişiklik yaptım
 
 # Ekran Görüntüleri
 
-![]{images/1.jpg}
+![](images/1.jpg)
 
 # Video
 
-![]{images/2.mp4}
+![](images/2.mp3)
 
 # GIF
 
-![]{images/3.gif}
+![](images/3.gif)
