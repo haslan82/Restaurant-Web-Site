@@ -21,4 +21,4 @@ Bu projede responsive Restaurant Web Sitesi hazırlandı.
 
 ![](images/3.gif)
 
-Creat by Hüseyin ASLAN
+Created by Hüseyin ASLAN
