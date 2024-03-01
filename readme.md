@@ -22,6 +22,4 @@ Bu projede responsive Restaurant Web Sitesi hazırlandı.
 ![](images/3.gif)
 
 Created by Hüseyin ASLAN
-<br/>
-<br/>
-[Projenin web sayfası] (http://127.0.0.1:5502/index.html)
+
